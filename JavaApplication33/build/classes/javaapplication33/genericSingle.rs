@@ -1,0 +1,1 @@
+tugaspert11.genericSingle
